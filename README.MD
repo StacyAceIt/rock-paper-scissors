@@ -43,6 +43,4 @@ game - Function that manages the best-of-five rounds and keeps track of the scor
 Acknowledgements
 
 The Odin Project - This project is part of The Odin Project's curriculum.
-License
 
-This project is open source and available under the MIT License. See the LICENSE file for more information.
